@@ -101,5 +101,6 @@ a:link {
 
   .container {
     flex-direction: column;
+    width: 90%;
   }
 }
